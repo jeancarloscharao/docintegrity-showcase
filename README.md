@@ -2,6 +2,8 @@
 
 O **DocIntegrity** é uma plataforma SaaS desenvolvida para garantir a integridade de documentos digitais através de hashing criptográfico (SHA-256).
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/JYy-yIICk7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=JYy-yIICk7g)
+
 A solução permite registrar documentos, gerar uma “impressão digital” única e validar posteriormente se o arquivo foi alterado.
 
 ---
